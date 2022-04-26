@@ -11,7 +11,6 @@
 <p>
 Logins and session management done.
 </p>
-</br></br>
  <img src="https://i.vgy.me/RKOBoX.png" align="center" style="width: 60%" /></br></br>
 <hr>
 
